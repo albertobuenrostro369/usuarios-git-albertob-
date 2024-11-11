@@ -1,7 +1,8 @@
 # Mi usuario de Git es albertobuenrostro 369
 
 Soy Alberto Buenrostro tengo 24 años y actualmente soy medico pasante de servicio social en medicina del deporte y rehabilitacion
-Además de que me gusta la medicina, tambien me dedico al baile aerobico y la atencion medica prehospitalaria
+Además de que me gusta la medicina, tambien me dedico al baile aerobico y la atencion medica prehospitalaria, actualmente tambien me
+estoy dedicando a la programacion estudiando el course master in front-end
 
 me gusta:
 
