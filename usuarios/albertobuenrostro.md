@@ -12,4 +12,4 @@ me gusta:
 - bailar
 
 
-Mi usuario de git es [albertobuenrostro369] (https://github.com/albertobuenrostro369)
+Mi usuario de git es [albertobuenrostro369](https://github.com/albertobuenrostro369)
